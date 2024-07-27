@@ -1,2 +1,2 @@
-# IT-dept-web
+# IT-Dept-Web
 A website for IT Association
