@@ -3,7 +3,8 @@
   padding: 0px auto;
 }
 .link{
-  font-weight: 700;
+  font-weight: 500;
+  text-transform: uppercase;
 }
 .link:hover{
   color: #808080;
