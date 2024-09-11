@@ -2,6 +2,11 @@
   margin: 0px;
   padding: 0px auto;
 }
+
 .link:hover{
-  color:#000;
+  color: #624E88;
+}
+.bgelement {
+  background-image: url(./assets/dotpattern.jpg);
+
 }
