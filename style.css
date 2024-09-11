@@ -8,5 +8,7 @@
 }
 .bgelement {
   background-image: url(./assets/dotpattern.jpg);
-
+}
+.border-bottom{
+  border-bottom: 5px solid #624E88;
 }
